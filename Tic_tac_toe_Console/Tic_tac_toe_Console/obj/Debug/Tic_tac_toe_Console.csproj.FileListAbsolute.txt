@@ -1,0 +1,6 @@
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\Tic_tac_toe_Console\Tic_tac_toe_Console\bin\Debug\Tic_tac_toe_Console.exe.config
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\Tic_tac_toe_Console\Tic_tac_toe_Console\bin\Debug\Tic_tac_toe_Console.exe
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\Tic_tac_toe_Console\Tic_tac_toe_Console\bin\Debug\Tic_tac_toe_Console.pdb
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\Tic_tac_toe_Console\Tic_tac_toe_Console\obj\Debug\Tic_tac_toe_Console.csprojResolveAssemblyReference.cache
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\Tic_tac_toe_Console\Tic_tac_toe_Console\obj\Debug\Tic_tac_toe_Console.exe
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\Tic_tac_toe_Console\Tic_tac_toe_Console\obj\Debug\Tic_tac_toe_Console.pdb
